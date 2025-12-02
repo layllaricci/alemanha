@@ -17,10 +17,15 @@ main {
     margin-inline: auto;
 }
 
-#culinaria {
+#culinaria-ul {
     padding: 1.2rem;
-    text-align: center;
+    margin: 1.2rem;
+    border-radius: 1rem;
+    margin-inline: 25rem;
+    text-align: left;
+    background-color: oklch(83.7% 0.128 66.29);
 }
+
 .linguica{
     position: relative;
    width: 276px;
@@ -29,13 +34,15 @@ main {
    top: 1rem;
    display: flex;    
 }
+
 .prato2{
     position: relative;
-width: 276px;
-height: 276px;
-border-radius: 54px;
-display: flex;
+    width: 276px;
+    height: 276px;
+    border-radius: 54px;
+    display: flex;
 }
+
 .pretzel{
     position: relative;
    width: 276px;
@@ -43,6 +50,7 @@ display: flex;
    border-radius: 54px;
    display: flex;
 }
+
 .Sauerkraut{
     position: relative;
     width: 276px;
@@ -50,6 +58,7 @@ display: flex;
     border-radius: 54px;
     display: flex;
 }
+
 #pratos {
     display: flex;
     justify-content: space-evenly;

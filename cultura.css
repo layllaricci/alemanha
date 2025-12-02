@@ -5,22 +5,20 @@ p {
     margin-inline: auto;
     line-height: 1.8rem;
     font-size: 120%;
-
-
-
-
 }
 
 h3 {
     text-align: center;
-    padding: 3rem;
+    padding: 2rem;
     font-size: 1.5rem;
+    margin: 5rem;
 }
 
 main {
     max-width: 1200px;
     margin-inline: auto;
 }
+
 .salichas{ 
     position: relative;
     width: 276px;
@@ -30,6 +28,7 @@ main {
     display: flex;
     margin-inline: auto;
 }
+
 .pontualidade{
     position: relative;
     width: 276px;
@@ -39,6 +38,7 @@ main {
     display: flex;
     margin-inline: auto;
 }
+
 .foto {
     position: relative;
     width: 276px;
@@ -48,6 +48,7 @@ main {
     margin-inline: auto;
     display: flex;
 }
+
 .alberto2{
     position: relative;
     width: 276px;

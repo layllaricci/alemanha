@@ -14,10 +14,9 @@ h3 {
 }
 
 main {
-    
-    
     margin-inline: auto;
 }
+
 .reno{
     position: relative;
     width: 330px;
@@ -27,6 +26,7 @@ main {
     display: flex;
     margin-inline: auto;
 }
+
 .catedral{
     position: relative;
     width: 350px;
@@ -36,6 +36,7 @@ main {
     display: flex;
     margin-inline: auto;
 }
+
 .castelo{
     position: relative;
     width: 350px;
@@ -44,6 +45,7 @@ main {
     top: 3rem;
     display: flex;
 }
+
 .portao{
     position: relative;
     width: 350px;
@@ -52,6 +54,7 @@ main {
     top: 3rem;
     display: flex;
 }
+
 #portcast {
     display: flex;
     justify-content: center;

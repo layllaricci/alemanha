@@ -3,7 +3,6 @@
     padding: 0;
     box-sizing: border-box;
     font-family: "Montserrat", sans-serif;
-    
 }
 
 header {
@@ -51,12 +50,14 @@ main {
         transition: .6s;
     }
 }
+
 p {
     background-color: oklch(83.7% 0.128 66.29);
     border-radius: 1rem;
     margin-top: 1.6rem;
     font-size: 1.1rem;
 }
+
 li {
     list-style: none;
 }

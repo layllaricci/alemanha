@@ -16,6 +16,7 @@ main {
     max-width: 1200px;
     margin-inline: auto;
 }
+
 .carro1{
     position: relative;
     width: 376px;
@@ -23,6 +24,7 @@ main {
     border-radius: 54px;
     display: flex;
 }
+
 .bmw{
     position: relative;
     width: 380px;
@@ -30,6 +32,7 @@ main {
     border-radius: 54px;
     display: flex;
 }
+
 .bayer{
     position: relative;
     width: 380px;
@@ -37,6 +40,7 @@ main {
     border-radius: 54px;
     display: flex;
 }
+
 .simens{
     position: relative;
     width: 380px;
@@ -44,6 +48,7 @@ main {
     border-radius: 54px;
     display: flex;
 }
+
 .alemanha{
     position: relative;
     width: 376px;
@@ -51,6 +56,7 @@ main {
     border-radius: 54px;
     display: flex;  
 }
+
 #eco {
     display: flex;
     justify-content: space-evenly;
