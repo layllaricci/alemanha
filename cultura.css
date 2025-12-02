@@ -28,7 +28,7 @@ main {
     border-radius: 54px;
     top: 1rem;
     display: flex;
-    left:36rem;
+    margin-inline: auto;
 }
 .pontualidade{
     position: relative;
@@ -37,7 +37,7 @@ main {
     border-radius: 54px;
     top: 1rem;
     display: flex;
-    left:36rem;
+    margin-inline: auto;
 }
 .foto {
     position: relative;
@@ -45,7 +45,7 @@ main {
     height: 276px;
     border-radius: 54px;
     top: 2rem;
-    left: 36rem;
+    margin-inline: auto;
     display: flex;
 }
 .alberto2{
@@ -54,6 +54,6 @@ main {
     height: 276px;
     border-radius: 54px;
     top:2rem;
-    left: 36rem;
+    margin-inline: auto;
     display: flex;
 }

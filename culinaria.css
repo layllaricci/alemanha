@@ -27,9 +27,7 @@ main {
    height: 276px;
    border-radius: 54px;
    top: 1rem;
-   display: flex;
-   left:10rem;
-   top:4rem;    
+   display: flex;    
 }
 .prato2{
     position: relative;
@@ -37,8 +35,6 @@ width: 276px;
 height: 276px;
 border-radius: 54px;
 display: flex;
-left: 10rem;
-top: 7rem;
 }
 .pretzel{
     position: relative;
@@ -46,8 +42,6 @@ top: 7rem;
    height: 276px;
    border-radius: 54px;
    display: flex;
-   left: 60rem;
-   top: -31rem;
 }
 .Sauerkraut{
     position: relative;
@@ -55,6 +49,10 @@ top: 7rem;
     height: 276px;
     border-radius: 54px;
     display: flex;
-    left: 60rem;
-    top: -27rem;
+}
+#pratos {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: start;
+    margin-top: 3rem;
 }

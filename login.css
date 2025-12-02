@@ -33,12 +33,13 @@ main {
 
 #entrar {
     margin-bottom: 2rem;
+    margin: .6rem;
     padding: .6rem 1rem;
     border: none;
     color: oklch(39.6% 0.141 25.723);
     background-color: oklch(88.5% 0.062 18.334);
     border-radius: .5rem;
-    margin-inline: 45rem;
+    margin-inline: 56.5rem;
 }
 
 button:hover {
@@ -55,9 +56,9 @@ p {
 
 #criar-conta {
     background-color: oklch(94.5% 0.129 101.54);
-    margin-inline: 40.4rem;
+    margin-inline: 52rem;
 }
 
 #botao-cadastro {
-    margin-inline: 45rem;
+    margin-inline: 56.5rem;
 }

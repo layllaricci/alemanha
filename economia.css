@@ -21,18 +21,14 @@ main {
     width: 376px;
     height: 300px;
     border-radius: 54px;
-    top: 1rem;
     display: flex;
-    left:60rem;   
 }
 .bmw{
     position: relative;
     width: 380px;
     height: 310px;
     border-radius: 54px;
-    top:3rem;
     display: flex;
-    left:60rem; 
 }
 .bayer{
     position: relative;
@@ -40,24 +36,24 @@ main {
     height: 310px;
     border-radius: 54px;
     display: flex;
-    left:6rem; 
-    top:-37rem;
 }
 .simens{
     position: relative;
     width: 380px;
     height: 310px;
     border-radius: 54px;
-    top:-34rem;
     display: flex;
-    left:6rem; 
 }
 .alemanha{
     position: relative;
     width: 376px;
     height: 300px;
     border-radius: 54px;
-    top: -65rem;
+    display: flex;  
+}
+#eco {
     display: flex;
-    left:34rem;   
+    justify-content: space-evenly;
+    align-items: start;
+    margin-top: 3rem;
 }

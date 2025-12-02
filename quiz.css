@@ -37,7 +37,7 @@ button {
     color: oklch(39.6% 0.141 25.723);
     background-color: oklch(88.5% 0.062 18.334);
     border-radius: .5rem;
-    margin-inline: 45rem;
+    margin-inline: 57rem;
 }
 button:hover {
         transition: ease-in-out .4s;

@@ -37,7 +37,7 @@ fieldset {
 }
 
 #avancar {
-    margin-inline: 44.5rem;
+    margin-inline: 56.2rem;
     margin-bottom: .4rem;
     padding: .6rem 1rem;
     border: none;
@@ -55,11 +55,11 @@ button:hover {
 
 #fazer-login {
     background-color: oklch(94.5% 0.129 101.54);
-    margin-inline: 41.6rem;
+    margin-inline: 53rem;
 }
 
 #botao-login {
-    margin-inline: 43.9rem;
+    margin-inline: 55rem;
 }
 
 #senha-forte {
