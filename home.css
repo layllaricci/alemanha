@@ -1,0 +1,18 @@
+p {
+    padding: 1.2rem;
+    text-align: center;
+    max-width: 75rem;
+    margin-inline: auto;
+    line-height: 1.8rem;
+    font-size: 120%;
+}
+
+h3 {
+    text-align: center;
+    padding: 3rem;
+}
+
+main {
+    max-width: 1200px;
+    margin-inline: auto;
+}

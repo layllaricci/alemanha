@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="cadastro.css">
+    <link rel="stylesheet" href="global.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+    <title>Faça seu cadastro</title>
+</head>
+<body>
+
+    <div class="cadastro">
+        <header>
+            <div class="header-page">
+                <h1>VIAJE HOJE</h1>
+
+                <nav>
+                    <ul>
+                        <li>
+                            <a href="home.html">Home</a>
+                        </li>
+                        <li>
+                            <a href="cultura.html">Cultura</a>
+                        </li>
+                        <li>
+                            <a href="pt.html">Pontos Turísticos</a>
+                        </li>
+                        <li>
+                            <a href="culinaria.html">Culinária</a>
+                        </li>
+                        <li>
+                            <a href="economia.html">Economia</a>
+                        </li>
+                        <li>
+                            <a href="quiz.html">Quiz</a>
+                        </li>
+                        <li>
+                            <a href="login.html">Login</a>
+                        </li>
+                        <li>
+                            <a href="cadastro.html">Cadastrar-se</a>
+                        </li>
+                    </ul>
+                </nav>
+            </div>
+        </header>
+    </div>
+         
+    <main>
+        <div class="main-cadastro">
+            
+        <h2>Faça agora o seu cadastro!</h2>
+        
+        <form>
+            <fieldset>
+                <div id="user">
+                    <label for="user"><strong>Nome de usuário:</strong></label>
+                    <input type="text" placeholder="Digite seu nome de usuário" id="user" required minlength="3" maxlength="50" required>
+                </div>
+
+                <div id="password">
+                    <label for="email"><strong>E-mail para login:</strong></label>
+                    <input type="email" placeholder="Digite seu e-mail" id="email" required>
+                </div>
+
+                <p id="senha-forte"><strong>Crie uma senha forte para concluir o cadastro</strong></p>
+
+                <div id="first-password">
+                    <label for="first-senha"><strong>Senha:</strong></label>
+                    <input type="password" placeholder="Digite sua senha" id="first-senha" required>
+                </div>
+
+                <div id="second-password">
+                    <label for="second-senha"><strong>Corfime a senha:</strong></label>
+                    <input type="password" placeholder="Digite novamente sua senha" id="second-senha" required>
+                </div>
+            </fieldset>
+
+            <fieldset>
+                <p id="adicionar-foto">Adicione uma foto para o seu perfil</p>
+
+                <div id="foto-perfil">
+                    <label for="foto"><strong>Foto de perfil:</strong></label>
+                    <input type="file" id="foto" accept=".jpg,.png,.jpeg" required>
+                </div>
+            </fieldset>
+
+            <button id="avancar"><strong>Avançar</strong></button>
+
+            <p id="fazer-login">Já possui uma conta?</p> <a href="./login.html" id="botao-login">Faça seu login</a>
+
+        </form>
+
+        </div>
+    </main>
+</body>
+</html>

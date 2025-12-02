@@ -1,0 +1,59 @@
+p {
+    padding: 1.2rem;
+    text-align: center;
+    max-width: 75rem;
+    margin-inline: auto;
+    line-height: 1.8rem;
+    font-size: 120%;
+
+
+
+
+}
+
+h3 {
+    text-align: center;
+    padding: 3rem;
+    font-size: 1.5rem;
+}
+
+main {
+    max-width: 1200px;
+    margin-inline: auto;
+}
+.salichas{ 
+    position: relative;
+    width: 276px;
+    height: 276px;
+    border-radius: 54px;
+    top: 1rem;
+    display: flex;
+    left:36rem;
+}
+.pontualidade{
+    position: relative;
+    width: 276px;
+    height: 276px;
+    border-radius: 54px;
+    top: 1rem;
+    display: flex;
+    left:36rem;
+}
+.foto {
+    position: relative;
+    width: 276px;
+    height: 276px;
+    border-radius: 54px;
+    top: 2rem;
+    left: 36rem;
+    display: flex;
+}
+.alberto2{
+    position: relative;
+    width: 276px;
+    height: 276px;
+    border-radius: 54px;
+    top:2rem;
+    left: 36rem;
+    display: flex;
+}

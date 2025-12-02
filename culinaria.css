@@ -1,0 +1,60 @@
+p {
+    padding: 1.2rem;
+    text-align: center;
+    max-width: 75rem;
+    margin-inline: auto;
+    line-height: 1.8rem;
+    font-size: 120%;
+}
+
+h3 {
+    text-align: center;
+    padding: 3rem;
+}
+
+main {
+    max-width: 1200px;
+    margin-inline: auto;
+}
+
+#culinaria {
+    padding: 1.2rem;
+    text-align: center;
+}
+.linguica{
+    position: relative;
+   width: 276px;
+   height: 276px;
+   border-radius: 54px;
+   top: 1rem;
+   display: flex;
+   left:10rem;
+   top:4rem;    
+}
+.prato2{
+    position: relative;
+width: 276px;
+height: 276px;
+border-radius: 54px;
+display: flex;
+left: 10rem;
+top: 7rem;
+}
+.pretzel{
+    position: relative;
+   width: 276px;
+   height: 276px;
+   border-radius: 54px;
+   display: flex;
+   left: 60rem;
+   top: -31rem;
+}
+.Sauerkraut{
+    position: relative;
+    width: 276px;
+    height: 276px;
+    border-radius: 54px;
+    display: flex;
+    left: 60rem;
+    top: -27rem;
+}

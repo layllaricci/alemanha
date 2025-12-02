@@ -1,0 +1,68 @@
+fieldset {
+    padding: 2rem;
+    width: 25rem;
+    border-radius: 1rem;
+    background-color: oklch(83.7% 0.128 66.29);
+    width: 300px;
+    margin: 0 auto;
+    margin-top: 1.5rem;
+    margin-bottom: 1.5rem;
+
+    textarea {
+        display: block;
+        margin-top: 1rem;
+        border-radius: 1rem;
+        border: none;
+        padding: 1rem;
+        resize: none;
+    }
+
+    input {
+        display: block;
+        width: 20rem;
+        margin-top: .6rem;
+        padding: .3rem;
+        border-radius: .5rem;
+        border: none;
+        color: oklch(14.5% 0 0);
+    }
+
+    input:focus {
+        outline: 2px solid oklch(87.9% 0.169 91.605);
+    }
+
+    input::placeholder {
+        color: oklch(42.1% 0.095 57.708);
+    }
+}
+
+#avancar {
+    margin-inline: 44.5rem;
+    margin-bottom: .4rem;
+    padding: .6rem 1rem;
+    border: none;
+    color: oklch(39.6% 0.141 25.723);
+    background-color: oklch(88.5% 0.062 18.334);
+    border-radius: .5rem;
+}
+
+button:hover {
+    background-color: oklch(78.195% 0.11943 11.683);
+    transition: ease-in-out .4s;
+    cursor: pointer;
+    font-size: 1rem;
+}
+
+#fazer-login {
+    background-color: oklch(94.5% 0.129 101.54);
+    margin-inline: 41.6rem;
+}
+
+#botao-login {
+    margin-inline: 43.9rem;
+}
+
+#senha-forte {
+    font-size: 1rem;
+    text-align: center;
+}
